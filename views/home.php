@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body>
+    <h1><?= $message ?></h1>
+    <p><?= $studentInfo ?></p>
+</body>
+</html>
